@@ -2,7 +2,6 @@
 #include <fstream>
 #include <string>
 #include <stack>
-#include <map>
 
 std::fstream calories ("elf_calories.txt");
 std::stack<int> counted_calories;
